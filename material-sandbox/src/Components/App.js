@@ -1,12 +1,12 @@
 import React, { Fragment } from 'react';
 import { Header, Footer } from './Layouts';
-import Sandbox from './Sandbox';
+import MichFish from './MichFish';
 
 function App() {
   return (
     <Fragment>
       <Header/>
-      <Sandbox/>
+      <MichFish/>
       <Footer/>
     </Fragment>
   );
