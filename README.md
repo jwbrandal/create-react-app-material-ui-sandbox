@@ -3,10 +3,10 @@ A project to make a Michigan centric fishing app, using publicly sourced data fr
 
 
 ## Dependencies
-# Created with Create-react-app
-# Leveraging Material-UI 
-# react-material-ui-carousel
-# SOM Michigan Species Database 
+-  Created with Create-react-app
+- Leveraging Material-UI 
+- react-material-ui-carousel
+- SOM Michigan Species Database 
 
 ## Installation
 - Clone repo
